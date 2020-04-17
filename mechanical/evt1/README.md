@@ -9,5 +9,6 @@ assembly are still in the process of research and finalization.
 However, this concept serves a reasonable starting point for discussion and ideation
 about the Simmel hardware integration. 
 
-STEP is a "neutral" 3D mechanical file interchange format. The PDF file provides additional
+STEP is a "neutral" 3D mechanical file interchange format. You may view and edit it
+with a program such as [FreeCAD](https://www.freecadweb.org/). The PDF file provides additional
 annotation about the function and role of the various elements in the design.
